@@ -24,11 +24,12 @@ you can not creat a timer if there is no task to link to.
 3. stop a timer
 
 Total time spent on each tasks is displayed.
-There are 4 pages:
+There are 5 pages:
 1. version info
 2. settings - you can change/edit your avatar
 3. timers - see active timers and archived ones
 4. tasts - add a task - see activ tasks and archived
+5. the main one - with icon menu to the 4 pages above - profile info - start/stop a timer
 
 ## config.php
 - database login informations
@@ -40,8 +41,8 @@ There are 4 pages:
 - font awesome 5.14
 - multiavatar
 
+## NOTES
 
 # TODO
-A version/info page is included.
 - [x] tested on PHP 8.2
 - [ ] upload the files
