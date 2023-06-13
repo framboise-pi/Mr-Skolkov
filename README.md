@@ -33,7 +33,7 @@ There are 5 pages:
 
 ## config.php
 - database login informations
-- if adding a new user is true/false
+- if adding a new user is true/false (true by default, for adding at least one user
 
 ## libraries or else included
 - google fonts
