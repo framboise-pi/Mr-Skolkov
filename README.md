@@ -1,5 +1,6 @@
 # Mr-Skolkov
 For tele-workers: start time counters attached to work missions. Get how much work time spent for each mission.
+ATTENTION: Please only install for Local Area Network use. Not meant for anything else than using it as a local tool, password are stored clear.
 
 <p align="center">
   <img src="core/imgz/background/background_MrSkolkov_02.jpg" width="350" title="Mr. Skolkov">
