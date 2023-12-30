@@ -12,6 +12,11 @@ I was in need of this kind of 'application' for my tele-working, as I did not fi
 It contains a mi french/english syntax as this is how I code for myself XD
 > If ever Mr. Skolkov gets stars, I will clean the code and add langage system
 
+<p align="center">
+  <img src="github-screenshots/MrSkolkov_screenshot_01.jpg" width="720" title="Mr. Skolkov - index">
+</p>
+
+
 ## Install notes
 - copy all the files on your server
 - create a database
@@ -20,6 +25,10 @@ It contains a mi french/english syntax as this is how I code for myself XD
 - browse to your directory
 - add a new user
 
+<p align="center">
+  <img src="github-screenshots/MrSkolkov_screenshot_02.jpg" width="720" title="Mr. Skolkov - index">
+</p>
+
 ## Usage
 You can run as many timers as you want at the same time,
 you can not creat a timer if there is no task to link to.
@@ -27,6 +36,11 @@ you can not creat a timer if there is no task to link to.
 1. create a task
 2. choose a task and start a timer
 3. stop a timer
+
+<p align="center">
+  <img src="github-screenshots/MrSkolkov_screenshot_03.jpg" width="720" title="Mr. Skolkov - index">
+</p>
+
 
 Total time spent on each tasks is displayed.
 There are 5 pages:
@@ -40,11 +54,24 @@ There are 5 pages:
 - database login informations
 - if adding a new user is true/false (true by default, for adding at least one user
 
+<p align="center">
+  <img src="github-screenshots/MrSkolkov_screenshot_04.jpg" width="720" title="Mr. Skolkov - index">
+</p>
+
+
 ## libraries or else included
 - google fonts
 - bootstrap 5
 - font awesome 5.14
 - multiavatar
+- 
+<p align="center">
+  <img src="github-screenshots/MrSkolkov_screenshot_05.jpg" width="720" title="Mr. Skolkov - index">
+</p>
+<p align="center">
+  <img src="github-screenshots/MrSkolkov_screenshot_06.jpg" width="720" title="Mr. Skolkov - index">
+</p>
+
 
 ## NOTES
 
