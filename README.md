@@ -1,6 +1,11 @@
 # Mr-Skolkov
 For tele-workers: start time counters attached to work missions. Get how much work time spent for each mission.
 
+<p align="center">
+  <img src="core/imgz/background/background_MrSkolkov_02.jpg" width="350" title="Mr. Skolkov">
+</p>
+
+
 ## Why, how, what?
 Maybe as you, I am a raspberry user aka webserver and more. 
 I was in need of this kind of 'application' for my tele-working, as I did not find on the internet what I wanted, I coded it.
