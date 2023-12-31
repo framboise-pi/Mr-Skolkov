@@ -78,4 +78,5 @@ There are 5 pages:
 
 # TODO
 - [x] tested on PHP 8.2
-- [ ] upload the files
+- [x] upload the files
+- [ ] way to 0.2 (lang)
